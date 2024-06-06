@@ -9,7 +9,7 @@ let tylerCounter = 0
 let randomCounter = 0
 
 function alarm() {
-    alert("Why did you do it man. You're better than this. This bloodshed is needless.")
+    alert("Why did you do it man? You're better than this. This bloodshed is needless.")
 }
 tully.addEventListener("click", function() {
   tullyCounter ++; 
